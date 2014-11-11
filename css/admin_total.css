@@ -1,0 +1,61 @@
+/*
+* includes for all wp admin area
+*/
+#adminmenu .menu-icon-meta_data_filter div.wp-menu-image:before{
+    content: '\f179'
+}
+#adminmenu .menu-icon-mdf_links div.wp-menu-image:before{
+    content: '\f179'
+}
+.meta_data_filter_tax_ul li{
+    background: #ddd;
+    padding: 3px 2px;
+    font-style: italic;
+    cursor: move;
+    margin-bottom: 1px;
+    overflow: hidden;
+    border:solid 1px #aaa;
+}
+
+
+.meta_data_filter_tax_ul li input[type='checkbox']{
+    vertical-align: bottom;
+}
+
+.mdf_childs_terms li div{
+    background: #ccc; 
+    margin-bottom: 1px;
+    padding: 5px;
+    border:solid 1px #aaa;
+}
+
+.mdf_childs_terms li ul{
+    margin-left: 25px;
+}
+
+
+div.info_popup {
+    position: fixed;
+    top: 48%;
+    left: 48%;
+    z-index: 1001;
+    display: none;
+    overflow: hidden;
+    padding: 20px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    background-color: rgba(0,0,0,.6);
+    -webkit-box-shadow: 
+        inset 0 0 0 1px rgba(0,0,0,.6), 
+        inset 0 0 0 2px rgba(255,255,255,.2);
+    -moz-box-shadow: 
+        inset 0 0 0 1px rgba(0,0,0,.6), 
+        inset 0 0 0 2px rgba(255,255,255,.2);
+    box-shadow: 
+        inset 0 0 0 1px rgba(0,0,0,.6), 
+        inset 0 0 0 2px rgba(255,255,255,.2);
+    color: #fff;
+    font-size: 22px;
+    font-family: 'Oswald',sans-serif;
+}
