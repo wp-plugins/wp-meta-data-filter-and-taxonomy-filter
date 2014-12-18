@@ -1,9 +1,9 @@
-﻿=== Wordpress Meta Data and Taxonomies Filter ===
+﻿﻿=== Wordpress Meta Data and Taxonomies Filter ===
 Contributors: RealMag777
 Donate link: http://codecanyon.net/item/wordpress-meta-data-taxonomies-filter/7002700?ref=realmag777
 Tags: ​filter, meta, taxonomies, taxonomies filter, meta filter, taxonomies filter widget, ​taxonomy filter, meta, metadata filter,search,wordpress search form, woocommerce products filter,marketing,widget,plugin,shortcode,woocommerce
 Requires at least: 3.8.0
-Tested up to: 4.0.0
+Tested up to: 4.1.0
 Stable tag: 1.0.6
 
 The main idea of the plugin – make your site content is searchable by meta fields and taxonomies on the same time.
