@@ -1,4 +1,4 @@
-﻿=== Wordpress Meta Data and Taxonomies Filter ===
+﻿﻿=== Wordpress Meta Data and Taxonomies Filter ===
 Contributors: RealMag777
 Donate link: http://codecanyon.net/item/wordpress-meta-data-taxonomies-filter/7002700?ref=realmag777
 Tags: ​filter, meta, taxonomies, taxonomies filter, meta filter, taxonomies filter widget, ​taxonomy filter, meta, metadata filter,search,wordpress search form, woocommerce products filter,marketing,widget,plugin,shortcode,woocommerce
