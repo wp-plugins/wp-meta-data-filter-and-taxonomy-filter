@@ -1,0 +1,1322 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress Meta Data & Taxonomies Filter (MDTF)\n"
+"POT-Creation-Date: 2014-09-18 08:36+0330\n"
+"PO-Revision-Date: 2014-11-08 10:27+0330\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: classes/html.php:8 classes/html.php:18
+msgid "checkbox"
+msgstr "باکس انتخاب"
+
+#: classes/html.php:9 classes/html.php:17
+msgid "drop-down"
+msgstr "آیتم باز شونده به پایین"
+
+#: classes/html.php:10
+msgid "range slider"
+msgstr "محدوده اسلایدر"
+
+#: classes/html.php:11
+msgid "taxonomy"
+msgstr "طبقه بندی"
+
+#: classes/html.php:12
+msgid "textinput"
+msgstr "متن ورودی"
+
+#: classes/html.php:13
+msgid "calendar"
+msgstr "تقویم"
+
+#: classes/page.php:20 index.php:233
+msgid "Meta Data Filter Options"
+msgstr "تنظیمات فیلتر اطلاعات"
+
+#: classes/shortcodes.php:10
+msgid "MDTF Shortcodes"
+msgstr "کد کوتاه افزونه"
+
+#: classes/shortcodes.php:11
+msgid "Shortcodes Links"
+msgstr "لینک کد کوتاه"
+
+#: classes/shortcodes.php:12 classes/shortcodes.php:13
+msgid "Add New Shortcode"
+msgstr "اضافه کردن کد کوتاه جدید"
+
+#: classes/shortcodes.php:14
+msgid "Edit Shortcode"
+msgstr "ویرایش کد کوتاه"
+
+#: classes/shortcodes.php:15
+msgid "New Shortcode"
+msgstr "کد کوتاه جدید"
+
+#: classes/shortcodes.php:16
+msgid "View Shortcode"
+msgstr "نمایش کد کوتاه"
+
+#: classes/shortcodes.php:17
+msgid "Search Shortcodes"
+msgstr "جستجو کد کوتاه"
+
+#: classes/shortcodes.php:18
+msgid "No Shortcodes found"
+msgstr "هیچ کد کوتاهی یافت نشد"
+
+#: classes/shortcodes.php:19
+msgid "No Shortcodes found in Trash"
+msgstr "هیچ کد کوتاهی در زبال دان پیدا نشد"
+
+#: classes/shortcodes.php:68
+msgid "MDTF Shortcode Options"
+msgstr "تنظیمات کد کوتاه افزونه"
+
+#: classes/shortcodes.php:69 classes/shortcodes.php:87
+msgid "Shortcode"
+msgstr "کد کوتاه"
+
+#: classes/shortcodes.php:74
+msgid "<b>Search form shortcode</b>"
+msgstr "<b>فرم جستجو کوتاه</b>"
+
+#: classes/shortcodes.php:79
+msgid "<b>Button shortcode</b>"
+msgstr "<b>دکمه کد کوتاه</b>"
+
+#: classes/shortcodes.php:86 ext/marketing.php:155 index.php:384
+#: views/shortcode/custom_filter_panel.php:39
+#: views/widgets/post_data_form.php:3 views/widgets/search_form.php:9
+#: views/widgets/search_form_tax.php:9
+msgid "Title"
+msgstr "عنوان"
+
+#: classes/shortcodes.php:88
+msgid "Button Shortcode"
+msgstr "دکمه کد کوتاه"
+
+#: classes/shortcodes.php:89 ext/marketing.php:158
+#: views/shortcode/custom_filter_panel.php:33
+msgid "Date"
+msgstr "jhvdo"
+
+#: classes/shortcodes.php:265
+#, php-format
+msgid "Shortcode with ID %s doesn exists"
+msgstr "کد کوتاه با شناسه %s پیدا نشد"
+
+#: classes/woosort.php:8
+msgid "MDTF Woo Sort"
+msgstr "ترتیب افزونه"
+
+#: classes/woosort.php:9
+msgid "Sort panels"
+msgstr "پیشخوان ترتیب دهی"
+
+#: classes/woosort.php:10 classes/woosort.php:11
+msgid "Add New Sort panel"
+msgstr "اضافه کردن پیشخوان ترتیب دهی"
+
+#: classes/woosort.php:12
+msgid "Edit Sort panel"
+msgstr "ویرایش پیشخوان ترتیب دهی"
+
+#: classes/woosort.php:13
+msgid "New Sort panel"
+msgstr "پیشخوان ترتیب دهی جدید"
+
+#: classes/woosort.php:14
+msgid "View Sort panel"
+msgstr "نمایش پیشخوان ترتیب دهی"
+
+#: classes/woosort.php:15
+msgid "Search Sort panels"
+msgstr "جستجو پیشخوان ترتیب دهی"
+
+#: classes/woosort.php:16
+msgid "No Sort panels found"
+msgstr "پیشخوانی یافت نشد"
+
+#: classes/woosort.php:17
+msgid "No Sort panels found in Trash"
+msgstr "پیشخوانی یافت نشد"
+
+#: classes/woosort.php:48
+msgid "Sort panel options"
+msgstr "تنظیمات پیشخوان ترتیب دهی"
+
+#: classes/woosort.php:98
+msgid "Not using"
+msgstr "استفاده نشده"
+
+#: classes/woosort.php:124 views/settings.php:111
+msgid "Default"
+msgstr "دلخواه"
+
+#: core.php:200
+msgid "something wrong with post ID"
+msgstr "موردی در شناسه مطلب اشتباه است"
+
+#: core.php:216
+msgid "something wrong with meta key"
+msgstr "موردی در کلید متا اشتباه است"
+
+#: ext/marketing.php:14
+msgid "MDTF Marketing"
+msgstr "بازاریابی افزونه"
+
+#: ext/marketing.php:15
+msgid "Marketing Links"
+msgstr "لینک بازاریابی"
+
+#: ext/marketing.php:16 ext/marketing.php:17
+msgid "Add New Link"
+msgstr "اضافه کردن لینک جدید"
+
+#: ext/marketing.php:18
+msgid "Edit Link"
+msgstr "ویرایش لینک"
+
+#: ext/marketing.php:19
+msgid "New Link"
+msgstr "لینک جدید"
+
+#: ext/marketing.php:20
+msgid "View Link"
+msgstr "نمایش لینک"
+
+#: ext/marketing.php:21
+msgid "Search Links"
+msgstr "جستجو لینک"
+
+#: ext/marketing.php:22
+msgid "No Links found"
+msgstr "هیچ لینکی یافت نشد"
+
+#: ext/marketing.php:23
+msgid "No Links found in Trash"
+msgstr "هیچ لینکی در زباله دان یافت نشد"
+
+#: ext/marketing.php:47
+msgid "Links Types"
+msgstr "نوع لینک"
+
+#: ext/marketing.php:48
+msgid "MDTF Marketing Links Types"
+msgstr "نوع لینک بازریابی افزونه"
+
+#: ext/marketing.php:49 index.php:62
+msgid "Add New"
+msgstr "اضافه کردن"
+
+#: ext/marketing.php:50
+msgid "Add New Marketing Type"
+msgstr "اضافه کردن نوع بازاریابی"
+
+#: ext/marketing.php:51
+msgid "Edit Marketing Types"
+msgstr "ویرایش نوع بازاریابی"
+
+#: ext/marketing.php:52
+msgid "New Marketing Type"
+msgstr "نوع بازریابی جدید"
+
+#: ext/marketing.php:53
+msgid "View Marketing Type"
+msgstr "نمایش نوع بازاریابی"
+
+#: ext/marketing.php:54
+msgid "Search Marketing Types"
+msgstr "جستجو نوع بازاریابی"
+
+#: ext/marketing.php:55
+msgid "No Marketing Types found"
+msgstr "نوع بازاریابی یافت نشد"
+
+#: ext/marketing.php:56
+msgid "No Marketing Types found in Trash"
+msgstr "نوع بازاریابی یافت نشد"
+
+#: ext/marketing.php:59
+msgid "Marketing Types"
+msgstr "نوع بازاریابی"
+
+#: ext/marketing.php:88
+msgid "Marketing Settings"
+msgstr "تنظیمات بازاریابی"
+
+#: ext/marketing.php:93
+msgid "MDTF Marketing Options"
+msgstr "تنظیمات بازاریابی افزونه"
+
+#: ext/marketing.php:156 views/marketing/metabox.php:7
+msgid "Link"
+msgstr "لینک"
+
+#: ext/marketing.php:157
+msgid "Types"
+msgstr "نوع"
+
+#: ext/marketing.php:183 index.php:432
+msgid "Show All"
+msgstr "نمایش همه"
+
+#: ext/simple-taxonomy-chain-menu.php:11
+msgid "GO!"
+msgstr "شروع(طراحی سایت ایران فردا)!"
+
+#: ext/simple-taxonomy-chain-menu.php:111
+msgid "Select post"
+msgstr "انتخاب مطلب"
+
+#: ext/simple-taxonomy-chain-menu.php:139
+msgid "Select category"
+msgstr "انتخاب دسته"
+
+#: index.php:29
+msgid "MDTF Filters"
+msgstr "فیلتر جستجو افزونه"
+
+#: index.php:30
+msgid "Filters sections"
+msgstr "فیلتر بخش ها"
+
+#: index.php:31
+msgid "Add New Filter"
+msgstr "اضافه کردن فیلتر جدید"
+
+#: index.php:32
+msgid "Add New Filter Section"
+msgstr "اضافه کردن بخش فیلتر جدید"
+
+#: index.php:33
+msgid "Edit Filter Section"
+msgstr "ویرایش بخش فیلتر"
+
+#: index.php:34
+msgid "New Filter Section"
+msgstr "بخش فیلتر جدید"
+
+#: index.php:35
+msgid "View Filter Section"
+msgstr "نمایش بخش فیلتر"
+
+#: index.php:36
+msgid "Search Filters"
+msgstr "فیلتر جستجو"
+
+#: index.php:37
+msgid "No Filters found"
+msgstr "هیچ فیلتری یافت نشد"
+
+#: index.php:38
+msgid "No Filters found in Trash"
+msgstr "هیچ فیلتری یافت نشد"
+
+#: index.php:60 index.php:61
+msgid "MDTF Categories"
+msgstr "دسته بند افزونه"
+
+#: index.php:63
+msgid "Add New Category"
+msgstr "اضافه کردن دسته جدید"
+
+#: index.php:64
+msgid "Edit Categories"
+msgstr "ویرایش دسته"
+
+#: index.php:65
+msgid "New Category"
+msgstr "دسته جدید"
+
+#: index.php:66
+msgid "View Category"
+msgstr "نمایش دسته"
+
+#: index.php:67
+msgid "Search Categories"
+msgstr "جستجو دسته"
+
+#: index.php:68
+msgid "No Categories found"
+msgstr "دسته ای یافت نشد"
+
+#: index.php:69
+msgid "No Categories found in Trash"
+msgstr "دسته ای در زباله دان یافت نشد"
+
+#: index.php:72
+msgid "Category"
+msgstr "دسته بندی"
+
+#: index.php:171
+msgid "MDTF Settings"
+msgstr "تنظیمات افزونه"
+
+#: index.php:234 index.php:387
+msgid "Filter sequence on front"
+msgstr "ترتیب ظاهری فیلتر"
+
+#: index.php:235
+msgid "Meta Data Filter Style"
+msgstr "استایل اطلاعات فیلتر"
+
+#: index.php:246
+msgid "MDTF Results Page"
+msgstr "صفحه نتایج جستجو افزونه"
+
+#: index.php:271 js/js_vars.php:3
+msgid "One Moment ..."
+msgstr "چند لحظه ...."
+
+#: index.php:288
+msgid ""
+"WordPress Meta Data & Taxonomies Filter plugin can't copy the template file "
+"to your current theme from wp-content/plugins/meta-data-filter/views/"
+"to_theme/template-meta-data-filter.php. Please upload this file using ftp to "
+"your current theme."
+msgstr "در مسیر افزونه های سایت بارگذاری و فعال شود"
+
+#: index.php:305
+msgid "integer number"
+msgstr "عدد صحیح"
+
+#: index.php:312
+msgid "The section max-heigh"
+msgstr "بخش بیشترین ارتفاع"
+
+#: index.php:313
+msgid ""
+"If you have a lot of elements in the filter section you can set max-height. "
+"Set 0 if you do not need it."
+msgstr ""
+"اگر شما المان های زیادی دارید در بخش فیلتر جستجو شما می توانید آن را روی "
+"حداکثر ارتفاع تنظیم نمایید. اگر نیازی ندارید روی صفر تنظیم شود"
+
+#: index.php:315
+msgid "On front (widget)"
+msgstr "در ظاهر(ابزارک)"
+
+#: index.php:318
+msgid "On backend"
+msgstr "در داخل"
+
+#: index.php:375
+msgid "digits only"
+msgstr "تنها اعداد"
+
+#: index.php:385
+msgid "Html Items Count"
+msgstr "شمارشگر آیتم html"
+
+#: index.php:386
+msgid "Categories"
+msgstr "دسته بندی"
+
+#: index.php:601
+#, php-format
+msgid "No term are created for %s"
+msgstr "بدون مدت برای ایجاد %s"
+
+#: index.php:1054
+msgid ""
+"Attention! Meta key must be begin from medafi_ but can not such the name!!"
+msgstr ""
+"Attention! Meta key must be begin from medafi_ but can not such the name!!"
+
+#: index.php:1059
+msgid "Attention! Meta key must be begin from medafi_!!"
+msgstr "Attention! Meta key must be begin from medafi_!!"
+
+#: index.php:1066
+msgid ""
+"Such key already exists in current filter or its the same fileld. Try "
+"another key!"
+msgstr ""
+"براخی از کلمات کلیدی در فیلتر موجود است ،لطفا با کلمات دیگر امتحان کنید"
+
+#: index.php:1091
+#, php-format
+msgid "Filter `%s` (%s) already has such key. Filter status: `%s`!"
+msgstr "فیلتر `%s` (%s) در حال حاضر کلمات کلیدی موجود است. وضعیت فیلتر: `%s`!"
+
+#: index.php:1135 js/js_vars.php:11
+msgid "Updated"
+msgstr "به روز رسانی"
+
+#: index.php:1174
+msgid "Meta Data Filter main widet"
+msgstr "ابزارک فیلتر اصلی جستجو"
+
+#: index.php:1177
+msgid "MDTF"
+msgstr "iran4all.ir"
+
+#: index.php:1239
+msgid "Meta Data Filter"
+msgstr "فیلتر جستجو"
+
+#: index.php:1251 index.php:1368 views/add_item_to_data_group.php:78
+#: views/shortcode/do_mdf_search_form.php:145
+msgid "Any"
+msgstr "هر"
+
+#: index.php:1252 index.php:1369 views/shortcode/do_mdf_search_form.php:478
+msgid "Filter"
+msgstr "فیلتر"
+
+#: index.php:1271 index.php:1388 views/widgets/search.php:43
+#, php-format
+msgid "Found %s items"
+msgstr "پیدا شدن  %s آیتم"
+
+#: index.php:1291
+msgid "Meta Data Filter Taxonomies"
+msgstr "گواهی فیلتر جستجو"
+
+#: index.php:1294
+msgid "MDTF Taxonomies only"
+msgstr "تنها گواهی"
+
+#: index.php:1356
+msgid "MDTF Taxonomies"
+msgstr "گواهی"
+
+#: index.php:1409
+msgid "MDTF single post data"
+msgstr "اطلاعات مطلب تنها"
+
+#: index.php:1412
+msgid "MDTF single page"
+msgstr "برگه تنها"
+
+#: index.php:1438
+msgid "Single Post Meta Data"
+msgstr "اطلاعات مطلب تنها"
+
+#: js/js_vars.php:10
+msgid "no ui sliders in selected mdf category"
+msgstr "هیچ اسلایدری از دسته انتخاب نشده"
+
+#: views/add_item_to_data_group.php:10
+msgid "Item Name"
+msgstr "نام آیتم"
+
+#: views/add_item_to_data_group.php:14
+msgid "enter item name here"
+msgstr "نام آیتم را وارد کنید"
+
+#: views/add_item_to_data_group.php:18
+msgid "Toggle"
+msgstr "کشویی"
+
+#: views/add_item_to_data_group.php:21
+msgid "Item Type"
+msgstr "نوع آیتم"
+
+#: views/add_item_to_data_group.php:38
+msgid "From^To"
+msgstr "از^به"
+
+#: views/add_item_to_data_group.php:39 views/page/draw_back_page_items.php:34
+msgid "example"
+msgstr "مثال"
+
+#: views/add_item_to_data_group.php:40
+msgid "Slider step"
+msgstr "نصب اسلایدر"
+
+#: views/add_item_to_data_group.php:41
+msgid "0 or empty mean auto step"
+msgstr "صفر یا خالی به صورت خودکار نصب می شود"
+
+#: views/add_item_to_data_group.php:42
+msgid "Prefix"
+msgstr "پیشوند"
+
+#: views/add_item_to_data_group.php:43
+msgid "Example: $"
+msgstr "مثال: تومان"
+
+#: views/add_item_to_data_group.php:44
+msgid "Postfix"
+msgstr "پسوند"
+
+#: views/add_item_to_data_group.php:45
+msgid "Example: €"
+msgstr "مثال : میلیون"
+
+#: views/add_item_to_data_group.php:46
+msgid "Prettify"
+msgstr "آراستن"
+
+#: views/add_item_to_data_group.php:49
+#: views/widgets/search_form/popup_terms_list.php:30
+msgid "Yes"
+msgstr "بله"
+
+#: views/add_item_to_data_group.php:50
+#: views/widgets/search_form/popup_terms_list.php:29
+msgid "No"
+msgstr "خیر"
+
+#: views/add_item_to_data_group.php:58
+msgid "enter default value"
+msgstr "وارد کردن مقدار پیشفرض"
+
+#: views/add_item_to_data_group.php:61
+msgid "self"
+msgstr "خود"
+
+#: views/add_item_to_data_group.php:65
+msgid "like"
+msgstr "علاقمندی"
+
+#: views/add_item_to_data_group.php:66
+msgid "exact"
+msgstr "دقیق"
+
+#: views/add_item_to_data_group.php:71
+msgid "jQuery-ui calendar: from - to"
+msgstr "تقویم جی کوائری : از - تا"
+
+#: views/add_item_to_data_group.php:75
+#: views/widgets/search_form/popup_terms_list.php:15
+msgid "Drop-down size"
+msgstr "سایز کشویی "
+
+#: views/add_item_to_data_group.php:76
+msgid "enter a digit from 1 to ..."
+msgstr "وارد کردن ارقام از 1 تا ...."
+
+#: views/add_item_to_data_group.php:77
+msgid "Drop-down first option title"
+msgstr "عنوان  تنظیمات اولین کشویی"
+
+#: views/add_item_to_data_group.php:79
+msgid "Leave this field empty to use defined in widget string: Any"
+msgstr "خالی گذاشتن این فیلد برای استفاده از ابزارک : هر"
+
+#: views/add_item_to_data_group.php:82
+msgid "Prepend drop-down option"
+msgstr "تنظیمات آیتم کرکره ای"
+
+#: views/add_item_to_data_group.php:90
+msgid "key for the current option - must be unique"
+msgstr "کلیدی برای گزینه فعلی - باید منحصر به فرد باشد"
+
+#: views/add_item_to_data_group.php:98
+msgid "Append drop-down option"
+msgstr "گزینه کشویی اضافی"
+
+#: views/add_item_to_data_group.php:104
+msgid ""
+"By logic here must be taxonomies constructor. But, to add more flexibility "
+"to the plugin,  taxonomies are selected in the widget. So you can use the "
+"same group for different post types, or the same post type but different "
+"widgets. If there no taxonomies selected in the widget - nothing will appear "
+"on front of site in search form of the widget."
+msgstr ""
+
+#: views/add_item_to_data_group.php:110
+msgid "Item Description"
+msgstr "توضیحات مورد"
+
+#: views/add_item_to_data_group.php:115
+msgid "Item meta key"
+msgstr "کلید های آیتم"
+
+#: views/add_item_to_data_group.php:116
+msgid "change meta key"
+msgstr "تغییر کلید های متا"
+
+#: views/add_item_to_data_group.php:117
+msgid "Attention"
+msgstr "اخطار"
+
+#: views/add_item_to_data_group.php:117
+msgid ""
+"meta key must be begin from <b>medafi_</b> prefix, another way you will have "
+"problems! If you are using this key somewhere in code be ready to change it "
+"there!<br /> Change keys please for saved filter and filters items only, not "
+"for new and just created!"
+msgstr ""
+
+#: views/add_item_to_data_group.php:119
+msgid "Reflect value from meta key"
+msgstr "نشانگر ارزش از کلید متا"
+
+#: views/add_item_to_data_group.php:126
+msgid ""
+"Example: <b>_regular_price</b>, where <i>_regular_price</i> is reflected "
+"meta field key in products.<br /> Reflection synchronizes data with already "
+"existing meta keys and makes them searchable!"
+msgstr ""
+
+#: views/data_meta_box.php:3
+msgid "Prepend Item"
+msgstr ""
+
+#: views/data_meta_box.php:18
+msgid "Append Item"
+msgstr "مورد اضافه"
+
+#: views/marketing/metabox.php:16
+msgid "Link SEO prefix"
+msgstr "پیشوند لینک سئو"
+
+#: views/marketing/metabox.php:30
+msgid "Link SEO suffix"
+msgstr "پسوند لینک سئو"
+
+#: views/marketing/settings.php:2
+msgid "MDTF Marketing Links Settings"
+msgstr "تنظیمات لینک بازاریابی"
+
+#: views/marketing/settings.php:5 views/settings.php:5
+msgid "Settings are saved."
+msgstr "تنظیمات ذخیره شد."
+
+#: views/marketing/settings.php:13
+msgid "Links prefixes"
+msgstr "پیشوند لینک"
+
+#: views/marketing/settings.php:15
+msgid "Add link prefix"
+msgstr "اضافه کردن لینک پیشوند"
+
+#: views/marketing/settings.php:25
+msgid ""
+"Example: http://site.net/<b>mdf</b>/192/man-jackets - <b>mdf</b> is prefix. "
+"You can create unlimited count of them. But be careful with such words as "
+"<b>category</b> or something from wordpress!"
+msgstr ""
+
+#: views/marketing/settings.php:26
+msgid ""
+"If no one prefix in settings, you can use default prefix <b>mdf</b> only."
+msgstr ""
+
+#: views/marketing/settings.php:35 views/settings.php:200
+msgid "Save Changes"
+msgstr "ذخیره تغییرات"
+
+#: views/page/data_meta_box.php:10
+msgid "category is not selected"
+msgstr "دسته انتخاب نشده است"
+
+#: views/page/draw_back_page_items.php:21
+#: views/page/draw_back_page_items.php:59
+#: views/page/draw_back_page_items.php:100
+#: views/page/draw_back_page_items.php:138
+#: views/page/draw_back_page_items.php:183
+#: views/shortcode/options_meta_box_html_items.php:23
+#, php-format
+msgid "is reflected by %s"
+msgstr "منعکس شده توسط %s"
+
+#: views/page/draw_back_page_items.php:40
+#: views/page/draw_back_page_items.php:83
+#: views/page/draw_back_page_items.php:121
+#: views/page/draw_back_page_items.php:166
+#: views/page/draw_back_page_items.php:209
+msgid "key is empty, please check filter data!"
+msgstr "کلید خالی است . لطفا چک کنید"
+
+#: views/page/draw_back_page_items.php:44
+msgid "min"
+msgstr "کم"
+
+#: views/page/draw_back_page_items.php:44
+msgid "max"
+msgstr "زیاد"
+
+#: views/page/draw_back_page_items.php:153
+#: views/page/draw_front_page_items.php:311
+#: views/shortcode/do_mdf_search_form.php:237
+msgid "from"
+msgstr "از"
+
+#: views/page/draw_back_page_items.php:156
+#: views/page/draw_front_page_items.php:314
+#: views/shortcode/do_mdf_search_form.php:240
+msgid "to"
+msgstr "تا"
+
+#: views/page/draw_back_page_items.php:193
+msgid "none"
+msgstr "پیشفرض"
+
+#: views/page/draw_back_page_items.php:229
+msgid "Taxonomy block is placed here"
+msgstr "بلوک طبقه بندی شده است در اینجا قرار می گیرد"
+
+#: views/settings.php:2
+msgid "Meta Data Filter Settings"
+msgstr "تنظیمات فیلتر داده"
+
+#: views/settings.php:12
+msgid "Search Result Page"
+msgstr "برگه نتایج جستجو"
+
+#: views/settings.php:15
+msgid "Link to site page where shows searching results"
+msgstr "لینک به صفحه سایت که در آن نتایج جستجو را نشان می دهد"
+
+#: views/settings.php:19
+msgid "Output searched posts template"
+msgstr "قالب های خروجی جستجو"
+
+#: views/settings.php:22
+msgid ""
+"Output template, search by default. For example: search,archive,content or "
+"your custom which is in current wp theme. If you want to set double name "
+"template, write it in such manner for example: content-special. If you do "
+"not understood - leave search!"
+msgstr ""
+
+#: views/settings.php:26
+msgid "Reset custom link"
+msgstr "تنظیم مجدد لینک ها"
+
+#: views/settings.php:29
+msgid ""
+"Leave this field empty if you do not need this. Of course each widget and "
+"shortcode has such option too."
+msgstr ""
+
+#: views/settings.php:34
+msgid "Results per page"
+msgstr "نتایج جستجو در هر صفحه"
+
+#: views/settings.php:37
+msgid ""
+"Leave this field empty if you want to use wordpress or your theme settings."
+msgstr ""
+
+#: views/settings.php:43
+msgid "Loading text"
+msgstr "متن انتظار"
+
+#: views/settings.php:46
+msgid "Example: One Moment ..."
+msgstr ""
+
+#: views/settings.php:52 views/settings.php:210
+msgid "Supported post types"
+msgstr "نوع مطالب قابل پشتیبانی"
+
+#: views/settings.php:65
+msgid "Check post types which should be searched"
+msgstr ""
+
+#: views/settings.php:70
+msgid "Use marketing short links"
+msgstr "استفاده از لینک های کوتاه بازاریابی"
+
+#: views/settings.php:77
+msgid ""
+"Using this the plugin addon you can create short links for your filtered "
+"posts/custom types. Example: http://your_site.com/mdf/192/seo-suffix-words-"
+"for-google"
+msgstr ""
+
+#: views/settings.php:83
+msgid "Sort-by buttons"
+msgstr "تنظیم بر اساس دکمه"
+
+#: views/settings.php:89
+msgid "by Date"
+msgstr "به وسیله تاریخ"
+
+#: views/settings.php:97
+msgid "by Title"
+msgstr "به وسیله عنوان"
+
+#: views/settings.php:107
+msgid "Tooltip theme"
+msgstr "راهنمای تم"
+
+#: views/settings.php:112
+msgid "Light"
+msgstr "روشن"
+
+#: views/settings.php:113
+msgid "Noir"
+msgstr "نوار"
+
+#: views/settings.php:114
+msgid "Punk"
+msgstr "بی ارزش"
+
+#: views/settings.php:115
+msgid "Shadow"
+msgstr "سایه"
+
+#: views/settings.php:126
+msgid "Tooltip icon image URL"
+msgstr "لینک عکس آیکن راهنما"
+
+#: views/settings.php:128
+msgid "default icon"
+msgstr "آیکن پیشفرض"
+
+#: views/settings.php:129
+msgid "Link to png icon for tooltip in widget"
+msgstr "لینک به آیکن برای راهنمای ابزارک"
+
+#: views/settings.php:133
+msgid "Tooltip max width"
+msgstr "راهنمای بیشترین عرض"
+
+#: views/settings.php:139
+msgid "jQuery-ui calendar date format"
+msgstr "فرمت تقویم جی کوائری"
+
+#: views/settings.php:143
+msgid "Default - mm/dd/yy"
+msgstr "پیشفرض -"
+
+#: views/settings.php:144
+msgid "Europe - dd-mm-yy"
+msgstr ""
+
+#: views/settings.php:145
+msgid "ISO 8601 - yy-mm-dd"
+msgstr ""
+
+#: views/settings.php:146
+msgid "Short - d M, y"
+msgstr ""
+
+#: views/settings.php:147
+msgid "Medium - d MM, y"
+msgstr ""
+
+#: views/settings.php:148
+msgid "Full - DD, d MM, yy"
+msgstr ""
+
+#: views/settings.php:160
+msgid "Use chosen js library for drop-downs in the search forms"
+msgstr "استفاده از انتخاب گر جی کوائری"
+
+#: views/settings.php:165
+msgid "for widgets"
+msgstr "برای ابزارک"
+
+#: views/settings.php:171
+msgid "for shortcodes"
+msgstr "برای کد کوتاه"
+
+#: views/settings.php:175
+msgid ""
+"Not compatible with all wp themes. Uncheck the checkbox it is works bad."
+msgstr ""
+
+#: views/settings.php:180
+msgid "Use custom scroll js bar"
+msgstr "استفاده از اسکرول دلخواه"
+
+#: views/settings.php:187
+msgid ""
+"Beautiful js scroll bars. Sometimes not compatible with some wordpress themes"
+msgstr ""
+
+#: views/settings.php:204
+msgid "Mass assign filter-category ID to any posts types"
+msgstr "استفاده از آی دی مطالب"
+
+#: views/settings.php:217
+msgid ""
+"Check post types to which filter ID should be assign. Enter right data, do "
+"not joke with it!"
+msgstr ""
+
+#: views/settings.php:222
+msgid "Enter filter ID"
+msgstr "وارد کردن شناسه فیلتر"
+
+#: views/settings.php:235
+msgid "Assign"
+msgstr "اختصاص دادن"
+
+#: views/shortcode/do_mdf_search_form.php:17
+#, php-format
+msgid "Found <span>%s</span> items"
+msgstr ""
+
+#: views/shortcode/do_mdf_search_form.php:486 views/widgets/search.php:134
+msgid "Reset"
+msgstr ""
+
+#: views/shortcode/options_meta_box.php:6
+#: views/shortcode/options_meta_box.php:14
+msgid "Select filter category"
+msgstr ""
+
+#: views/shortcode/options_meta_box.php:21
+msgid ""
+"No one filter MDTF Category created! To start use shortcode create one "
+"please."
+msgstr ""
+
+#: views/shortcode/options_meta_box.php:42
+msgid "Shortcode options"
+msgstr ""
+
+#: views/shortcode/options_meta_box.php:48 views/widgets/search_form.php:76
+#: views/widgets/search_form_tax.php:32
+msgid "Results output page link"
+msgstr ""
+
+#: views/shortcode/options_meta_box.php:50
+#: views/shortcode/options_meta_box.php:56
+msgid "leave this field empty to use output page from the plugin settings"
+msgstr ""
+
+#: views/shortcode/options_meta_box.php:54 views/widgets/search_form.php:83
+#: views/widgets/search_form_tax.php:39
+msgid "Results output template"
+msgstr ""
+
+#: views/shortcode/options_meta_box.php:60 views/widgets/search_form.php:95
+#: views/widgets/search_form_tax.php:51
+msgid "Custom text for search results"
+msgstr ""
+
+#: views/shortcode/options_meta_box.php:62 views/widgets/search_form.php:97
+#: views/widgets/search_form_tax.php:53
+#, php-format
+msgid "Example: Found %s items"
+msgstr ""
+
+#: views/shortcode/options_meta_box.php:66
+msgid "Auto submit"
+msgstr ""
+
+#: views/shortcode/options_meta_box.php:73
+msgid "AJAX Auto recount"
+msgstr ""
+
+#: views/shortcode/options_meta_box.php:77
+msgid "To use this option please uncheck \"Auto submit\""
+msgstr ""
+
+#: views/shortcode/options_meta_box.php:81
+msgid "Show count"
+msgstr ""
+
+#: views/shortcode/options_meta_box.php:88
+msgid "Hide items where count is 0"
+msgstr ""
+
+#: views/shortcode/options_meta_box.php:95 views/widgets/search_form.php:361
+#: views/widgets/search_form_tax.php:222
+msgid "Show reset button"
+msgstr ""
+
+#: views/shortcode/options_meta_box.php:102
+msgid "Show found items count text"
+msgstr ""
+
+#: views/shortcode/options_meta_box.php:109
+msgid "Filter button text"
+msgstr ""
+
+#: views/shortcode/options_meta_box.php:115
+msgid "Post type"
+msgstr "نوع مطلب"
+
+#: views/shortcode/options_meta_box.php:122
+msgid ""
+"To manage by taxonomies of the selected post type you should press Update "
+"button!"
+msgstr ""
+
+#: views/shortcode/options_meta_box.php:134 views/widgets/search_form.php:195
+#: views/widgets/search_form_tax.php:58
+msgid "Taxonomies options"
+msgstr ""
+
+#: views/shortcode/options_meta_box.php:166
+msgid "taxonomy custom title"
+msgstr ""
+
+#: views/shortcode/options_meta_box.php:167
+msgid "checkbox block max-height"
+msgstr ""
+
+#: views/shortcode/options_meta_box.php:186
+msgid "One child below"
+msgstr ""
+
+#: views/shortcode/options_meta_box.php:187
+msgid "All childs below"
+msgstr ""
+
+#: views/shortcode/options_meta_box.php:200 views/widgets/search_form.php:414
+#: views/widgets/search_form_tax.php:264
+msgid "Additional taxonomies conditions"
+msgstr ""
+
+#: views/shortcode/options_meta_box.php:203 views/widgets/search_form.php:416
+#: views/widgets/search_form_tax.php:266
+msgid "Example"
+msgstr ""
+
+#: views/shortcode/options_meta_box.php:203 views/widgets/search_form.php:416
+#: views/widgets/search_form_tax.php:266
+msgid "Syntax is"
+msgstr ""
+
+#: views/shortcode/options_meta_box.php:209 views/widgets/search_form.php:423
+#: views/widgets/search_form_tax.php:273
+msgid "Woo search panel"
+msgstr ""
+
+#: views/shortcode/options_meta_box.php:218
+msgid "Custom filter panel"
+msgstr ""
+
+#: views/shortcode/options_meta_box.php:257
+msgid "Shortcode front skin"
+msgstr ""
+
+#: views/shortcode/options_meta_box_html_items.php:7
+#: views/shortcode/options_meta_box_html_items.php:36
+#: views/widgets/search_form/popup_terms_list.php:78
+msgid "Hide"
+msgstr "مخفی"
+
+#: views/shortcode/options_meta_box_html_items.php:30
+msgid "Type"
+msgstr "نوع"
+
+#: views/shortcode/options_meta_box_html_items.php:33
+msgid "Range"
+msgstr "محدوده"
+
+#: views/widgets/post_data_form.php:8 views/widgets/search_form.php:34
+#: views/widgets/search_form_tax.php:14
+msgid "Slug"
+msgstr "لغزان"
+
+#: views/widgets/post_data_form.php:33
+msgid "Show absent items"
+msgstr "نمایش آیتم های ناموجود"
+
+#: views/widgets/search.php:68 views/widgets/search_form.php:110
+#: views/widgets/search_form.php:303 views/widgets/search_form_tax.php:166
+msgid "OR"
+msgstr "یا"
+
+#: views/widgets/search.php:70 views/widgets/search_form.php:109
+#: views/widgets/search_form.php:302 views/widgets/search_form_tax.php:165
+msgid "AND"
+msgstr "و"
+
+#: views/widgets/search_form.php:14
+msgid "Meta Data Filter Categories"
+msgstr ""
+
+#: views/widgets/search_form.php:23
+msgid "select category"
+msgstr "انتخاب دسته"
+
+#: views/widgets/search_form.php:58
+msgid "Hide meta values filter options"
+msgstr ""
+
+#: views/widgets/search_form.php:59
+msgid ""
+"Hide meta values filter options necessarily if you are going to filter by "
+"taxonomies <b>only</b>!"
+msgstr ""
+
+#: views/widgets/search_form.php:71
+msgid "Hide taxonomies values filter options"
+msgstr ""
+
+#: views/widgets/search_form.php:78 views/widgets/search_form.php:85
+#: views/widgets/search_form.php:91 views/widgets/search_form_tax.php:34
+#: views/widgets/search_form_tax.php:41 views/widgets/search_form_tax.php:47
+msgid ""
+"Leave this field empty if you want to use the default value from settings"
+msgstr ""
+
+#: views/widgets/search_form.php:89 views/widgets/search_form_tax.php:45
+msgid "Custom reset link/url"
+msgstr ""
+
+#: views/widgets/search_form.php:102
+msgid "Meta options"
+msgstr ""
+
+#: views/widgets/search_form.php:106
+msgid "AND/OR behaviour for meta filelds"
+msgstr ""
+
+#: views/widgets/search_form.php:130
+msgid "Show near checkbox count of posts"
+msgstr ""
+
+#: views/widgets/search_form.php:141
+msgid "Show count of posts in select option"
+msgstr ""
+
+#: views/widgets/search_form.php:153
+msgid "Show count of posts in range slider"
+msgstr ""
+
+#: views/widgets/search_form.php:165
+msgid "Dynamic post items recount"
+msgstr ""
+
+#: views/widgets/search_form.php:177
+msgid "Hide items where count of items is 0"
+msgstr ""
+
+#: views/widgets/search_form.php:189
+msgid "Show filter button after each block"
+msgstr ""
+
+#: views/widgets/search_form.php:199 views/widgets/search_form_tax.php:62
+msgid "Taxonomies for the selected slug"
+msgstr ""
+
+#: views/widgets/search_form.php:278 views/widgets/search_form_tax.php:142
+msgid "Options"
+msgstr ""
+
+#: views/widgets/search_form.php:289
+msgid ""
+"To show slugs taxonomies you have to add in selected Meta Data Filter "
+"Category a data constructor block of type <b>\"taxonomy\"</b>. It must "
+"appear one time only in search form of one widget! Otherwise maybe problems."
+msgstr ""
+
+#: views/widgets/search_form.php:293 views/widgets/search_form_tax.php:156
+msgid "No Taxonomies exists for selected slug"
+msgstr ""
+
+#: views/widgets/search_form.php:299 views/widgets/search_form_tax.php:162
+msgid "AND/OR behaviour for taxonomies"
+msgstr ""
+
+#: views/widgets/search_form.php:322 views/widgets/search_form_tax.php:185
+msgid "Show count of posts/custom"
+msgstr ""
+
+#: views/widgets/search_form.php:336 views/widgets/search_form_tax.php:199
+msgid "Dynamic post recount"
+msgstr ""
+
+#: views/widgets/search_form.php:347 views/widgets/search_form_tax.php:210
+msgid "Hide terms where count of items is 0"
+msgstr ""
+
+#: views/widgets/search_form.php:373 views/widgets/search_form_tax.php:234
+msgid "Auto submit form"
+msgstr ""
+
+#: views/widgets/search_form.php:384 views/widgets/search_form_tax.php:245
+msgid "AJAX items recount"
+msgstr ""
+
+#: views/widgets/search_form.php:396 views/widgets/search_form_tax.php:257
+msgid "AJAX items output"
+msgstr ""
+
+#: views/widgets/search_form.php:403
+msgid "Title for Any"
+msgstr ""
+
+#: views/widgets/search_form.php:408 views/widgets/search_form_tax.php:279
+msgid "Title for filter button"
+msgstr ""
+
+#: views/widgets/search_form.php:429
+msgid "Add filter sort by item"
+msgstr ""
+
+#: views/widgets/search_form/popup_terms_list.php:1
+#, php-format
+msgid "Terms items of \"%s\""
+msgstr ""
+
+#: views/widgets/search_form/popup_terms_list.php:8
+msgid "Show as"
+msgstr ""
+
+#: views/widgets/search_form/popup_terms_list.php:11
+msgid "Custom name/title for taxonomies"
+msgstr ""
+
+#: views/widgets/search_form/popup_terms_list.php:12
+msgid ""
+"Leave this field empty to show taxonomy name as title. Use syntax like: "
+"<b>Country^Region^City</b> to display parents and childs with another titles "
+"in first drop-down option."
+msgstr ""
+"این قسمت را خالی بگذارید اگر می خواهید گواهینامه ها با نام و عنوان نمایش "
+"داده شوند."
+
+#: views/widgets/search_form/popup_terms_list.php:18
+msgid "Block max height"
+msgstr "مسدود کردن ارتفاع زیاد"
+
+#: views/widgets/search_form/popup_terms_list.php:19
+msgid "Set 0 if you do not want to set max-height for this taxonomy"
+msgstr "روی صفر تنظیم کنید اگر نمی خواهید رو حداکثر ارتفاع تنظیم شود"
+
+#: views/widgets/search_form/popup_terms_list.php:31
+#: views/widgets/search_form/popup_terms_list.php:35
+msgid "Show all child terms at once below"
+msgstr "نمایش همه قوانین در زیر "
+
+#: views/widgets/search_form/popup_terms_list.php:38
+msgid "Use this option if you are using title like Country^Region^City"
+msgstr "در صورتی که می خواهید نام کشور-استان- شهر "
+
+#: views/widgets/search_form/popup_terms_list.php:76
+msgid "Name"
+msgstr "نام"
+
+#: views/widgets/search_form/popup_terms_list.php:77
+msgid "Post Count"
+msgstr "تعداد مطالب"
+
+#: views/woosort/metabox.php:8 views/woosort/metabox.php:16
+msgid "Show results taxonomies navigation"
+msgstr "نمایش نتایج رده بندی در منو"
+
+#: views/woosort/metabox.php:21
+msgid "Sort panel meta keys"
+msgstr "کلمات کلیدی ترتیب پنل"
+
+#: views/woosort/metabox.php:23
+msgid "Add meta key"
+msgstr "اضافه کردن کلمات کلیدی"
+
+#: views/woosort/metabox.php:33
+msgid "Special words: date,title. Example: title^Title"
+msgstr "کلمات اختصاصی : تاریخ ،عنوان، مثال :: تاریخ^عنوان"
+
+#: views/woosort/metabox.php:46
+msgid "Example: _sale_price^Price"
+msgstr "مثال: _ فروش _ قیمت ^قیمت"
